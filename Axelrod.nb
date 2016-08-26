@@ -1,10 +1,10 @@
-**Simulation of Axelrod Model for Social Influence**
+(**Simulation of Axelrod Model for Social Influence**
 Area:_Complex Systems Dynamics_
 
 This code in Wolfram language, performs a simulation for the social influence Axelrod's model.
 Here individuals, agents or particles that are part of a system are simulated by n-dimensional vectors, where each input of the
 vector represents an attribute or characteristic.
-It is a model of short spatial extent, in a square periodic system with no border conditions.
+It is a model of short spatial extent, in a square periodic system with no border conditions.*)
 
 (*<<LinearAlgebra`MatrixManipulation`;*)
 (*<<MultivariateStatistics`;*)
